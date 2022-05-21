@@ -37,7 +37,7 @@ const Hero = () => {
                         onMouseEnter={() => setShowCircle(true)}
                         onMouseLeave={() => setShowCircle(false)}
                     >
-                        Contribute Today
+                        Contribute Now
                     </button>
                 </Link>
                 {/* {showCircle && (

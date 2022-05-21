@@ -5,7 +5,7 @@ import React from "react";
 
 const ReachOut = () => {
   return (
-    <div className="w-full my-0 py-0 flex bg-black text-white">
+    <div className="w-full my-0 py-0 flex bg-[#800000] text-white">
       <div className="py-20 w-[60%] flex flex-col px-10">
         <img src="/static/images/quotecirc.svg" className="w-20 pb-14" alt="" />
         <div className="px-10">

@@ -121,7 +121,7 @@ const Login = () => {
             onClick={submitHandler}
           >
             <img src="/static/images/google.svg" alt="" className="h-[40px]" />
-            <span className="text-center w-full font-semibold">
+            <span className="text-center w-full font-semibold ">
               Login With MetaMask 🦊
             </span>
           </button>

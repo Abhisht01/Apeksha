@@ -5,12 +5,8 @@ import Link from "next/link";
 const NavBar = () => {
   return (
     <div className="w-full flex justify-between p-8">
-      <Link href="/" passHref>
-        <img
-          src="/static/images/logo_text_right_3.png"
-          alt=""
-          className="h-20 hover:cursor-pointer"
-        />
+      <Link href="/" passHref className="tyr">
+        APEKSHA
       </Link>
       <Link passHref href="/signup">
         <div className="cta flex">
